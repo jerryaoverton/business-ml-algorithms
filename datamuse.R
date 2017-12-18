@@ -1,3 +1,5 @@
+#This function takes in a comma-separated list of words and adds an expanded list of related terms.
+#It is based on the Datamuse API
 
 add_related_terms <- function(terms.original){
   
